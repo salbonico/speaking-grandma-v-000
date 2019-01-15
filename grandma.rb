@@ -19,10 +19,8 @@ if input == "I LOVE YOU GRANDMA!"
 puts "I LOVE YOU TOO PUMPKIN!"
 elsif input != input.uppercase
 puts "HUH?! SPEAK UP, SONNY!"
-elsif input == input.uppercase
-  puts "NO, NOT SINCE 1938!"
-
-
-
+else
+puts "NO, NOT SINCE 1938!"
+end
 
 end
